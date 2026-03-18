@@ -1,8 +1,8 @@
 # Hola, soy Dilan Yax
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dilan-Yax/Dilan-Yax/main/coding.gif.gif" alt="Coding GIF" width="400">
-</p>>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueGZ3YjZueXF4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCqv91_V6/giphy.gif" width="400">
+</p>
 
 Estudiante de **Ingeniería en Sistemas** enfocado en el desarrollo de software y la arquitectura de sistemas. Me apasiona la lógica de programación y la creación de herramientas eficientes. Actualmente expandiendo mis conocimientos para convertirme en **Desarrollador Fullstack**.
 
