@@ -1,20 +1,24 @@
-# ¡Hola! 👋 Soy Dilan Yax
+# Hola, soy Dilan Yax
 
-Estudiante de **Ingeniería en Sistemas** enfocado en el desarrollo de software y la arquitectura de sistemas. Me apasiona resolver problemas lógicos y construir herramientas que optimicen procesos. Actualmente, estoy expandiendo mis conocimientos para convertirme en un **Desarrollador Fullstack**.
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNTrZInV5K1JdBfP7/giphy.gif" alt="Bienvenida GIF" width="400">
+</p>
 
----
-
-### 🚀 Sobre mí
-
-- 🎓 Actualmente cursando la carrera de **Ingeniería en Sistemas**.
-- 🔭 Trabajando en: **Simulador de Sistemas Operativos** desarrollado en C# y WPF.
-- 🌱 Aprendiendo: Profundizando en **Python** (lógica y estructuras) y desarrollo web moderno.
-- 💬 Pregúntame sobre: C#, C++, SQL Server y algoritmos básicos.
-- 🎯 Meta: Perfeccionar mis habilidades en el stack completo de desarrollo.
+Estudiante de **Ingeniería en Sistemas** enfocado en el desarrollo de software y la arquitectura de sistemas. Me apasiona resolver problemas lógicos y construir herramientas eficientes. Actualmente expandiendo mis conocimientos para convertirme en **Desarrollador Fullstack**.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### Sobre mí
+
+- Estudiante de **Ingeniería en Sistemas**.
+- Proyecto actual: **Simulador de Sistemas Operativos** (desarrollado con C# y WPF).
+- Aprendizaje actual: Profundizando en **Python** y desarrollo web.
+- Intereses: C#, C++, SQL Server y algoritmos.
+- Objetivo profesional: Especializarme en el stack completo de desarrollo.
+
+---
+
+### Tecnologías y Herramientas
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
@@ -27,7 +31,7 @@ Estudiante de **Ingeniería en Sistemas** enfocado en el desarrollo de software 
 
 ---
 
-### 📊 Estadísticas de GitHub
+### Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dilan-Yax&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Dilan" width="48%">
@@ -36,7 +40,7 @@ Estudiante de **Ingeniería en Sistemas** enfocado en el desarrollo de software 
 
 ---
 
-### 📫 Conéctate conmigo
+### Conéctate conmigo
 
 <p align="left">
   <a href="mailto:TU_CORREO@ejemplo.com">
@@ -45,9 +49,4 @@ Estudiante de **Ingeniería en Sistemas** enfocado en el desarrollo de software 
   <a href="TU_LINK_DE_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</p>
-
----
-<p align="center">
-  <i>"El código es poesía en movimiento."</i>
 </p>
