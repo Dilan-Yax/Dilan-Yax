@@ -1,6 +1,8 @@
 # Hola, soy Dilan Yax
 
-<img align="right" width="300px" alt="Coding" src="coding.gif.gif" />
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Dilan-Yax.Dilan-Yax) ![GitHub followers](https://img.shields.io/github/followers/Dilan-Yax?style=social)
+
+<img align="right" width="300px" alt="Unicorn" src="coding.gif.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
