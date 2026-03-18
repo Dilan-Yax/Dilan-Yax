@@ -2,7 +2,7 @@
 
 <img align="right" width="350" alt="Coding Image" src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MXxzZWFyY2h8MTF8fGNvZGluZ3xlbnwwfHx8fDE2NjU5NjA4NjA&ixlib=rb-1.2.1&q=80&w=600" />
 
-Estudiante de Ingenieria en Sistemas enfocado en el desarrollo de software y la arquitectura de sistemas. Me apasiona resolver problemas logicos y construir herramientas eficientes.
+Estudiante de Ingenieria en Sistemas enfocado en el desarrollo de software. Me apasiona resolver problemas logicos y construir herramientas eficientes.
 
 ---
 
