@@ -1,6 +1,8 @@
 # Hola, soy Dilan Yax
 
-<img align="right" width="300" src="coding.gif.gif" alt="Coding GIF" />
+<img align="right" width="300px" alt="Coding" src="coding.gif.gif" />
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 Estudiante de **Ingeniería en Sistemas** enfocado en el desarrollo de software y la arquitectura de sistemas. Me apasiona la lógica de programación y la creación de herramientas eficientes. Actualmente expandiendo mis conocimientos para convertirme en **Desarrollador Fullstack**.
 
