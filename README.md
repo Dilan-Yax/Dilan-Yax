@@ -2,7 +2,7 @@
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Dilan-Yax.Dilan-Yax) ![GitHub followers](https://img.shields.io/github/followers/Dilan-Yax?style=social)
 
-<img align="right" width="300px" alt="Unicorn" src="coding.gif.gif" />
+<img align="right" width="300px" alt="Unicorn" src="https://c.tenor.com/GN73MKBaWZYAAAAi/busy-cute.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
