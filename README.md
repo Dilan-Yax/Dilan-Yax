@@ -37,16 +37,3 @@ Estudiante de **Ingeniería en Sistemas** enfocado en el desarrollo de software 
   <img src="https://github-readme-stats.vercel.app/api?username=Dilan-Yax&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Dilan" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilan-Yax&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="45%">
 </p>
-
----
-
-### Conéctate conmigo
-
-<p align="left">
-  <a href="mailto:TU_CORREO@ejemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="TU_LINK_DE_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
