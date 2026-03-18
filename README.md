@@ -1,24 +1,21 @@
 # Hola, soy Dilan Yax
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueGZ3YjZueXF4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCqv91_V6/giphy.gif" width="400">
-</p>
+<img align="right" width="350" alt="Coding Image" src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MXxzZWFyY2h8MTF8fGNvZGluZ3xlbnwwfHx8fDE2NjU5NjA4NjA&ixlib=rb-1.2.1&q=80&w=600" />
 
-Estudiante de **Ingeniería en Sistemas** enfocado en el desarrollo de software y la arquitectura de sistemas. Me apasiona la lógica de programación y la creación de herramientas eficientes. Actualmente expandiendo mis conocimientos para convertirme en **Desarrollador Fullstack**.
+Estudiante de Ingenieria en Sistemas enfocado en el desarrollo de software y la arquitectura de sistemas. Me apasiona resolver problemas logicos y construir herramientas eficientes.
 
 ---
 
-### Sobre mí
+### Sobre mi
 
-- Estudiante de **Ingeniería en Sistemas**.
-- Proyecto destacado: **Simulador de Sistemas Operativos** (C# y WPF).
-- Aprendizaje actual: Profundizando en **Python** y desarrollo web.
-- Intereses: C#, C++, SQL Server y algoritmos.
-- Objetivo profesional: Especializarme en el stack completo de desarrollo.
+- Actualmente cursando la carrera de Ingenieria en Sistemas.
+- Proyecto destacado: Simulador de Sistemas Operativos (C# y WPF).
+- Aprendizaje actual: Profundizando en Python y fundamentos de desarrollo Fullstack.
+- Intereses: Arquitectura de software, SQL Server y algoritmos.
 
 ---
 
-### Tecnologías y Herramientas
+### Tecnologias y Herramientas
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
@@ -31,9 +28,9 @@ Estudiante de **Ingeniería en Sistemas** enfocado en el desarrollo de software 
 
 ---
 
-### Estadísticas de GitHub
+### Estadisticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dilan-Yax&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Dilan" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilan-Yax&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dilan-Yax&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilan-Yax&layout=compact&theme=tokyonight&hide_border=true" width="45%">
 </p>
