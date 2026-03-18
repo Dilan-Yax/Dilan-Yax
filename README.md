@@ -1,16 +1,30 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Dilan Yax
 
-<!--
-**Dilan-Yax/Dilan-Yax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería en Sistemas** apasionado por la creación de software y la lógica de programación. Actualmente enfocado en mi crecimiento como desarrollador y en aprender nuevas tecnologías para convertirme en **Fullstack Developer**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí:
+
+- 🌱 Aprendiendo: **Python** (Variables, bucles, funciones y manejo de errores) y desarrollo web.
+- 💬 Pregúntame sobre: **C++, C#, SQL Server** o algoritmos.
+- 🎓 Estudiando en: Universidad y **Platzi**.
+
+
+### 🛠️ Tecnologías y Herramientas:
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+### 🎯 Mis Objetivos:
+* Dominar el desarrollo Fullstack.
+* Crear soluciones de software que optimicen procesos reales.
+* Seguir compartiendo mis proyectos de la carrera aquí en GitHub.
+
+---
+
