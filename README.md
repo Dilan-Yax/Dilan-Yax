@@ -1,17 +1,17 @@
 # Hola, soy Dilan Yax
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNTrZInV5K1JdBfP7/giphy.gif" alt="Bienvenida GIF" width="400">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400">
 </p>
 
-Estudiante de **Ingeniería en Sistemas** enfocado en el desarrollo de software y la arquitectura de sistemas. Me apasiona resolver problemas lógicos y construir herramientas eficientes. Actualmente expandiendo mis conocimientos para convertirme en **Desarrollador Fullstack**.
+Estudiante de **Ingeniería en Sistemas** enfocado en el desarrollo de software y la arquitectura de sistemas. Me apasiona la lógica de programación y la creación de herramientas eficientes. Actualmente expandiendo mis conocimientos para convertirme en **Desarrollador Fullstack**.
 
 ---
 
 ### Sobre mí
 
 - Estudiante de **Ingeniería en Sistemas**.
-- Proyecto actual: **Simulador de Sistemas Operativos** (desarrollado con C# y WPF).
+- Proyecto destacado: **Simulador de Sistemas Operativos** (C# y WPF).
 - Aprendizaje actual: Profundizando en **Python** y desarrollo web.
 - Intereses: C#, C++, SQL Server y algoritmos.
 - Objetivo profesional: Especializarme en el stack completo de desarrollo.
