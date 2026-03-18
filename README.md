@@ -1,7 +1,5 @@
 # Hola, soy Dilan Yax
 
-# Hola, soy Dilan Yax
-
 <p align="center">
   <img src="coding.gif" alt="Coding GIF" width="400">
 </p>
